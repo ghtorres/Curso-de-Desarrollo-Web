@@ -22,6 +22,7 @@
 
 
 * PÁGINA DEL PROYECTO
+------------------------------
 
      https://frontendstore-ght.netlify.com/
 
