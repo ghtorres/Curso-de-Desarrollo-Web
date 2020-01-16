@@ -6,21 +6,21 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-TEMAS VISTOS DURANTE EL DESARROLLO
+* TEMAS VISTOS DURANTE EL DESARROLLO
 ----------------------------------
 
-   * HTML
+     HTML
    
-      - <ul></ul> Undordered List
+       - <ul></ul> Undordered List
    
-      - <li></li> List Item
+       - <li></li> List Item
 
-   * CSS
+     CSS
 
-      - Flexbox
+       - Flexbox
       
 
-PÁGINA DEL PROYECTO
+* PÁGINA DEL PROYECTO
 ----------------------------------
 
     https://blogdecafe-ght.netlify.com/
