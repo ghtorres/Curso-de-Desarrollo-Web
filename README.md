@@ -10,25 +10,21 @@
 
 
 ----------------------------------------------
-*  *  *  BIENES RAÍCES  *  *  *
-----------------------------------------------
+*  BIENES RAÍCES
 
      https://bienesraices-ght.netlify.com/
 
 ----------------------------------------------
-*  *  *  BLOG DE CAFÉ  *  *  *
-----------------------------------------------
+*  BLOG DE CAFÉ
 
      https://blogdecafe-ght.netlify.com/
 
 ----------------------------------------------
-*  *  *  BLOG DE VIAJES  *  *  *
-----------------------------------------------
+*  BLOG DE VIAJES
 
      https://blogdeviajes-ght.netlify.com/
 
 ----------------------------------------------
- *  *  *  FRONT END STORE  *  *  *
-----------------------------------------------
+ *  FRONT END STORE
 
      https://frontendstore-ght.netlify.com/
