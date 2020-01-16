@@ -18,3 +18,9 @@ TEMAS VISTOS DURANTE EL DESARROLLO
    * CSS
 
       - Flexbox
+      
+
+PÁGINA DEL PROYECTO
+----------------------------------
+
+    https://blogdecafe-ght.netlify.com/
