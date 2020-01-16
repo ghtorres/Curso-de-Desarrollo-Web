@@ -43,9 +43,6 @@
 	diferentes pestañas en un aplicación o para dividir temáticamente las secciones de un documento (sección de anuncios, 
 	sección de últimos artículos publicados, sección de vinculos relacionados, etc.).
 
-
-
-
      CSS
 
        - Float
